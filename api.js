@@ -1,5 +1,5 @@
 URL1='https://dev.azure.com/mrcooper/Data%20Services/Data%20Governance/_apis/work/teamsettings/iterations?$expand=all&api-version=6.0'
-PAT_TOKEN = ''
+PAT_TOKEN = 'YOUR TOKEN'
  var name='SRVC_WH - Sprint 81';
  var Id;
  var ele;
