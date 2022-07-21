@@ -1,6 +1,6 @@
 const allSprintsURL =
   "https://dev.azure.com/mrcooper/Data%20Services/Data%20Governance/_apis/work/teamsettings/iterations?$expand=all&api-version=6.0";
-const PAT_TOKEN = "qlroa5iwdfxzijuroivqy24flu3lndnbboowslpmfpfuh7qwibna";
+const PAT_TOKEN = "";
 //const name = "SRVC-ODS Changes";
 const name = 'SRVC_WH - Sprint 92';
 const Id =  92;
